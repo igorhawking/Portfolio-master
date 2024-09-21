@@ -26,8 +26,8 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Chatify"
-              description="Sala de bate-papo pessoal ou espaço de trabalho para compartilhar recursos e se divertir com amigos. Construído com React.js, Material-UI e Firebase. Possui recursos que permitem mensagens em tempo real, compartilhamento de imagens e reações nas mensagens."
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              description="QuantumCloudStorage é um sistema de armazenamento em nuvem avançado e seguro, projetado para atender às necessidades de empresas e usuários que buscam uma proteção de armazenamento confiável e inovadora. Este projeto utiliza tecnologias de ponta, como criptografia quântica, inteligência artificial e blockchain, para garantir a segurança, privacidade e integridade dos dados armazenados na nuvem."
+              ghLink="https://github.com/igaodevs/QuantumCloudStorage"
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Bits-0f-C0de"
               description="Minha página pessoal de blog construída com Next.js e Tailwind CSS. Os conteúdos são extraídos de arquivos markdown e renderizados usando Next.js. Suporta modo escuro e é fácil de escrever blogs usando markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/igaodevs/CruzeiroConnect"
               demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
@@ -48,8 +48,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Editor.io"
-              description="Editor online de código e markdown construído com React.js. Suporta HTML, CSS e JS com visualização instantânea do site. Editor de markdown para construir arquivos README, com suporte a GFM, tags HTML personalizadas e visualização instantânea. Ambos os editores suportam salvamento automático usando Local Storage."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              description="Site de empresa chamada appezshop feita com react js"
+              ghLink="https://appezshop.com/"
               demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
